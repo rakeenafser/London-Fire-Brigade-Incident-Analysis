@@ -27,7 +27,7 @@ Between 2018 and 2023, total recorded incidents increased by **19.3%**, while re
 
 Special service incidents increased by **41.6%** over the same period, demonstrating that changes in overall incident demand were not driven by fires alone.
 
-![Annual incident trends](figures/annual_incident_trends.png)
+![Annual incident trends](annual_incident_trends.png)
 
 ### 2. Geographic patterns differ between all incidents and fires
 
@@ -37,7 +37,7 @@ Westminster had the highest average annual overall incident rate per 1,000 resid
 
 When examining fire-only incident rates, boroughs such as Greenwich and Waltham Forest became more prominent.
 
-![London borough geographic comparison](figures/london_side_by_side_map_comparison.png)
+![London borough geographic comparison](london_side_by_side_map_comparison.png)
 
 *Both maps use average annual incident rates per 1,000 residents for 2018–2023. The colour scales differ, so the maps should be interpreted as comparisons of geographical patterns rather than direct colour-intensity comparisons.*
 
@@ -57,7 +57,7 @@ False alarms, meanwhile, accounted for almost half of incidents and approximatel
 
 These findings illustrate why incident counts and recorded appliance-time demand should be considered together.
 
-![Incident volume versus pump-hour share](figures/incident_vs_pump_hours.png)
+![Incident volume versus pump-hour share](incident_vs_pump_hours.png)
 
 ### 4. Incident composition varies across London boroughs
 
@@ -65,7 +65,7 @@ Borough-level analysis highlighted differences in the composition of recorded em
 
 Westminster recorded the highest absolute number of false alarms during the study period, while the City of London had a particularly high proportion of false alarms relative to its total recorded incidents.
 
-![Borough incident composition](figures/borough_incident_composition.png)
+![Borough incident composition](borough_incident_composition.png)
 
 Additional analyses explore seasonal demand, hourly patterns, property categories and borough-level false-alarm comparisons.
 
